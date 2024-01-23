@@ -7,13 +7,4 @@ module.exports = {
     plugins: [],
   }
 
-//   customize tailwind
-//   tailwind.config = {
-//     theme: {
-//       extend: {
-//         colors: {
-//           primary_color: '#000',
-//         }
-//       }
-//     }
-//   }
+
